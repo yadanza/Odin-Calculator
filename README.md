@@ -1,1 +1,2 @@
 # Odin-Calculator
+This is going to be my first project implementing html, css, and javascript. The code and display will be rough at first, but this will be the initial stepping stone to a career of advanced and elgantly designed websites and applications.
